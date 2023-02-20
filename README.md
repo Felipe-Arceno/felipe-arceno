@@ -2,10 +2,10 @@
 
 <div>
   <a href="https://github.com/felipe-arceno/felipe-arceno">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-arceno&repo=felipe-arceno" />
+    <img align="center" src="https://felipe-arceno.vercel.app/api/pin/?username=felipe-arceno&show_icons=true&hide_border=true" />
   </a>
   <a href="https://github.com/felipe-arceno/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=felipe-arceno&repo=felipe-arceno" />
+    <img align="center" src="https://felipe-arceno.vercel.app/api/pin/?username=felipe-arceno&repo=felipe-arceno" />
   </a>
 </div>
 
