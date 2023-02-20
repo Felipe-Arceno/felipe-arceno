@@ -7,6 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe-arceno&show_icons=true&theme=onedark" />
 </a>
 
+<br/>
+
 <div style="display: inline_block">
   <img alt="csharp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="margin: 20px;" />
   <img alt="dotnet" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="margin: 20px;" />
