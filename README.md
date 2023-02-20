@@ -14,8 +14,13 @@
   <img alt="dotnet" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="margin: 20px;" />
   <img alt="javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 20px;" />
   <img alt="html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin: 20px;" />
-  <img alt="css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin: 20px;" />
-
+  <img alt="css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin: 20px;" />  
+</div>
+<br/>
+<div style="display: inline_block"> 
+  <a href="mailto:contatofelipearceno@gmail.com">
+    <img alt="gmail" height="30" width="70" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin: 20px;" />
+  </a>    
 </div>
 
 
